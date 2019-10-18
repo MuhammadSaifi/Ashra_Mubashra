@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ashra Mubashra</string>
+    <string name="name">Ashra Mubashra</string>
+    <string name="data">
+        Assalam-o-Alaikum!\n\n
+        This is app made for just learning purpose about Islam.
+        I included some information about Ashra Mubashra Ishab e karaam.
+        So guys read this app \nand tell whats wrong happend in this app.
+        So, that i fix this problem from my App and make in a efficient way.
+        This app will be work on Android Nought(7.1) because i was selected this
+        type of android and\n after working on them i realized that there are so \nminimum number of peoples
+        who have this type of android phone anyhow in a short while i will fix that\n problem.
+        This app buld in Android Studio by Using Kotlin Language.
+        \n\n
+        Thankx for install my app.
+    </string>
+<string name="info">Introduction</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="options">Ashra Mubashra</string>
+</resources>

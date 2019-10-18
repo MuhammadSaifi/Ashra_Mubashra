@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ashramubashra">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_info"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_info"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".About"/>
+        <activity android:name=".Abu_Bakkar"/>
+        <activity android:name=".Umer"/>
+        <activity android:name=".Usman"/>
+        <activity android:name=".Ali"/>
+        <activity android:name=".Talha"/>
+        <activity android:name=".Zubair"/>
+        <activity android:name=".Abu_Obaida"/>
+        <activity android:name=".Adul_Rehman"/>
+        <activity android:name=".Saad"/>
+        <activity android:name=".Saeed"/>
+        <activity android:name=".Ashra_Mubashra"/>
+        <activity android:name=".Introduction"/>
+        <activity android:name=".Splash"
+            android:theme="@style/SplashTheme"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
